@@ -17,7 +17,7 @@ Introduction to Textual Analysis (Voyant Tools) is licensed under a <a href="htt
 
 ## Uploading Data
 
-1-Download the "SPN-320" compressed zip folder in this Repo to your Desktop.
+1-Download the Barrio_Fino_Lyrics.txt file in this Repo to your Desktop.
 
 2-Open a web browser (preferably Firefox or Chrome) and navigate to the <a href="http://voyant-tools.org/">Voyant Tools homepage</a>.
 
