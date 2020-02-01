@@ -12,19 +12,18 @@ Introduction to Textual Analysis (Voyant Tools) is licensed under a <a href="htt
 <hr />
 
 <a href="http://voyant-tools.org/">Voyant Tools</a> is an open-source web application developed by Stéfan Sinclair and Geoffrey Rockwell in 2003, with later contributions added by Andrew MacDonald, Cyril Briquet, Lisa Goddard, and Mark Turcato. While Voyant is one of the leading robust web-based textual analysis interfaces, it grew out of existing text analysis tools like HyperPo, Tapoware, and TACT. Voyant also offers <a href="https://github.com/sgsinclair/Voyant">open-source code</a> that can be used to deploy the program on a server. Voyant users can upload text files from their computer, link to online text sources, or scrape the text off a webpage for analysis and visualization. Unlike more advanced, programming-oriented textual analysis programs like R and R Studio, Voyant gives users access to a range statistical analysis and visualization features without requiring significant technical knowledge.
-<blockquote><em>Exploring Big Historical Data: </em>pages 83-86</blockquote>
 
 <hr />
 
 ## Uploading Data
 
-1-Download the "Voyant_Corpus" compressed zip folder in this Repo to your Desktop.
+1-Download the El Gesticulador text file.
 
 2-Open a web browser (preferably Firefox or Chrome) and navigate to the <a href="http://voyant-tools.org/">Voyant Tools homepage</a>.
 
 <p align="center"><a href="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter size-large wp-image-549" src="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true" alt="" width="676" height="523" /></a></p>
 
-3-Upload the zip folder and click Reveal.
+3-Upload the file and click Reveal.
 
 <p align="center"><a href="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true"><img class="aligncenter size-large wp-image-550" src="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true" alt="" width="676" height="355" /></a></p>
 
@@ -165,9 +164,9 @@ Based on your initial scan, what function do you think these various components 
 
 <ul>
  	<li>What did you find engaging or interesting about Voyant Tools?</li>
- 	<li>What types of historical research questions could a researcher have about a text or collection of texts?</li>
+ 	<li>What types of research questions could a researcher have about a text or collection of texts?</li>
  	<li>How effectively might Voyant be able to address those questions?</li>
  	<li>What challenges, frustrations, or limitations did you encounter while using Voyant?</li>
- 	<li>What remaining questions do you have about the S&amp;B textual data?</li>
- 	<li>How would you move forward with Voyant as a tool for historical textual analysis?</li>
+ 	<li>What remaining questions do you have about this text?</li>
+ 	<li>How would you move forward with Voyant as a tool for textual analysis?</li>
 </ul>
