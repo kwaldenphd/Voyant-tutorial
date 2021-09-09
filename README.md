@@ -1,6 +1,6 @@
 # Voyant Tutorial
 
-This tutorial was written by <a href="https://www.grinnell.edu/users/waldenka">Katherine Walden</a>, Digital Liberal Arts Specialist at Grinnell College. Tutorial instructions were co-authored by Sarah Purcell (L.F. Parker Professor of History, Grinnell College) and Papa Ampim-Darko, a student research assistant at Grinnell College.
+This tutorial was originally written by Katherine Walden, when she was working as a Digital Liberal Arts Specialist at Grinnell College. Tutorial instructions were co-authored by Sarah Purcell (L.F. Parker Professor of History, Grinnell College) and Papa Ampim-Darko, a student research assistant at Grinnell College.
 
 This tutorial was reviewed by <a href="https://www.grinnell.edu/users/donovang">Gina Donovan</a> (Instructional Technologist, Grinnell College).
 
@@ -17,6 +17,8 @@ Introduction to Textual Analysis (Voyant Tools) is licensed under a <a href="htt
 <hr />
 
 ## Uploading Data
+
+*Note: Images and screenshots included in this tutorial are from a sample corpus and do not reflect what you will see working with different texts.*
 
 1-Download the "Voyant_Corpus" compressed zip folder in this Repo to your Desktop.
 
